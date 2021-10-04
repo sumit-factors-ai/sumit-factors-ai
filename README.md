@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sumit-factors-ai
+- 👋 Hi, I’m sumit
 - 👀 I’m interested in full stack development 
 - 🌱 I’m currently learning backend dev
 - 💞️ I’m looking to collaborate on full stack projects
